@@ -2,6 +2,8 @@
 
 - My 3rd project in Udacity frontend developer nanodegree.
 
+- Preview this game https://rituraj567.github.io/classic-arcade-game/.
+
 Author
 =========
  It is made by Rituraj Kadamati
